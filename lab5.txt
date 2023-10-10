@@ -1,0 +1,5 @@
+Question 1: What are some of the benefits of using a static site generator? What are some disadvantages?
+It is easier and faster to set up and maintain becuase it has no server side code. It is also Secure against server side, or database attacks.
+
+Question 2: What is the link to your GitHub pages hosted static site?
+https://maraf-dev.github.io/

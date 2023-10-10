@@ -3,7 +3,7 @@ SITENAME = 'My Cool Site'
 SITEURL = ''
 
 PATH = 'content'
-
+THEME = 'templates/mytheme'
 TIMEZONE = 'America/Edmonton'
 
 DEFAULT_LANG = 'English'
